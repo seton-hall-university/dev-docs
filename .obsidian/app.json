@@ -2,7 +2,7 @@
   "showLineNumber": true,
   "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "assets/images",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useTab": false
