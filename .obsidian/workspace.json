@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_20-modern-campus/Emergency Alerts.md",
+                "file": "_20-modern-campus/News Listing Pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_20-modern-campus/Emergency Alerts.md",
+                "file": "_20-modern-campus/News Listing Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_20-modern-campus/Emergency Alerts.md",
+                "file": "_20-modern-campus/News Listing Pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_20-modern-campus/Emergency Alerts.md"
+                "file": "_20-modern-campus/News Listing Pages.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "baafc7b50906f1c5",
   "lastOpenFiles": [
+    "_20-modern-campus/Emergency Alerts.md",
     "_20-modern-campus/assets",
     "_20-modern-campus/assets/images/news-list-pages-image1.png",
-    "_20-modern-campus/Emergency Alerts.md",
     "_20-modern-campus/News Listing Pages.md",
     "_20-modern-campus/assets/images/omnicms-addons-emergency-alerts-20231005183003.png",
     "_80-commonspot/index.md",
