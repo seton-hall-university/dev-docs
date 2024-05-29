@@ -72,17 +72,17 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 collections:
   # Define a collection named "general", its documents reside in the "_10-general" directory
   10-general:
-    permalink: "/:collection/:path"
+    permalink: "/:collection/:name"
     output: true
 
   # Define a collection named "modern-campus", its documents reside in the "_20-modern-campus" directory
   20-modern-campus:
-    # permalink: "/:collection/:path"
+    permalink: "/:collection/:name"
     output: true
 
   # Define a collection named "cloudflare", its documents reside in the "_30-cloudflare" directory
   30-cloudflare:
-    permalink: "/:collection/:path"
+    permalink: "/:collection/:name"
     output: true
 
 
