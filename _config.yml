@@ -77,7 +77,7 @@ collections:
 
   # Define a collection named "modern-campus", its documents reside in the "_20-modern-campus" directory
   20-modern-campus:
-    permalink: "/:collection/:path"
+    # permalink: "/:collection/:path"
     output: true
 
   # Define a collection named "cloudflare", its documents reside in the "_30-cloudflare" directory
