@@ -1,4 +1,7 @@
 ---
+layout: default
+parent: General Notes
+title: Web Development Task List
 category: General
 cssclasses:
   - cards
@@ -6,15 +9,12 @@ cssclasses:
 date-created: 2024-02-16 11:05:42
 date-modified: 2024-02-16 11:05:42
 description: Outlines some of the tasks that Web Development takes care of regularly.
-layout: default
 nav_enabled: true
 tags: 
   - task-list
   - generic-note
-title: Web Development Task List
 type:
   - generic note
-parent: General Notes
 ---
 
 # Web Development Task List
