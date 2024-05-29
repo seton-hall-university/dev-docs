@@ -14,6 +14,7 @@ html:
   offline: false
   toc: true
 lang: en_us
+layout: default
 linkcolor: blue
 output:
     pdf_document:
