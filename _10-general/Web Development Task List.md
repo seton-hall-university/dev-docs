@@ -2,7 +2,6 @@
 layout: default
 parent: General
 title: Web Development Task List
-category: General
 cssclasses:
   - cards
   - cards-cols-3

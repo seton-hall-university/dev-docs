@@ -70,18 +70,18 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Define Jekyll collections
 collections:
+  # Define a collection named "general", its documents reside in the "_10-general" directory
+  10-general:
+    permalink: "/:collection/:path/"
+    output: true
+
   # Define a collection named "modern-campus", its documents reside in the "_20-modern-campus" directory
-  modern-campus:
+  20-modern-campus:
     permalink: "/:collection/:path/"
     output: true
 
   # Define a collection named "cloudflare", its documents reside in the "_30-cloudflare" directory
-  cloudflare:
-    permalink: "/:collection/:path/"
-    output: true
-
-  # Define a collection named "general", its documents reside in the "_10-general" directory
-  10-general:
+  30-cloudflare:
     permalink: "/:collection/:path/"
     output: true
 
@@ -89,8 +89,22 @@ collections:
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
+    # Reference the "general" collection
+    10-general:
+      # Give the collection a name
+      name: General
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      # nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
+
     # Reference the "modern-campus" collection
-    modern-campus:
+    20-modern-campus:
       # Give the collection a name
       name: Modern Campus CMS
       # Exclude the collection from the navigation
@@ -104,23 +118,9 @@ just_the_docs:
       # search_exclude: true
 
     # Reference the "cloudflare" collection
-    cloudflare:
+    30-cloudflare:
       # Give the collection a name
       name: Cloudflare
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      # nav_exclude: true
-      # Fold the collection in the navigation
-      # Supports true or false (default)
-      # nav_fold: true  # note: this option is new in v0.4
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      # search_exclude: true
-
-    # Reference the "general" collection
-    general:
-      # Give the collection a name
-      name: General
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md",
+                "file": "_10-general/Web Development Task List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md",
+                "file": "_10-general/Web Development Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md",
+                "file": "_10-general/Web Development Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md"
+                "file": "_10-general/Web Development Task List.md"
               }
             }
           },
@@ -159,15 +159,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8be996aff59f9c10",
+  "active": "baafc7b50906f1c5",
   "lastOpenFiles": [
-    "20-mc-cms/assets/news-list-pages-image2.png",
+    "index.md",
+    "_10-general/Web Development Task List.md",
+    "_10-general/index.md",
     "20-mc-cms/News Listing Pages.md",
+    "20-mc-cms/assets/news-list-pages-image2.png",
     "20-mc-cms/assets",
     "20-mc-cms/index.md",
     "_templates/Generic Page Template.md",
-    "_10-general/Web Development Task List.md",
-    "_10-general/index.md",
     "20-mc-cms/alerts.md",
     "80-commonspot/CommonSpot User Account Policy and Procedure.md",
     "80-commonspot/index.md",
