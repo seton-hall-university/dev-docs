@@ -46,6 +46,8 @@ The intended audience for this document is high level content contributors and a
 
 After logging into Omni CMS, navigate to the Add-On's menu and select `Emergency Alerts` 
 
+![](assets/images/news-list-pages-image1.png)
+
 ![CMS Dashboard](../assets/images/omnicms-addons-emergency-alerts-20231005183003.png)
 
 Once the add-on has loaded, you will be presented with either the currently active message or the ability to create a new alert.
