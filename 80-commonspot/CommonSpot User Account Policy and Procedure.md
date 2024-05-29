@@ -1,16 +1,14 @@
 ---
 layout: default
-parent: CommonSpot Notes
+parent: CommonSpot
 title: CommonSpot User Account Policy and Procedure
 category: CommonSpot
 date: September 16, 2022
-# description:
 tags:
   - Policy
   - Procedure
   - CommonSpot
   - UserAccounts
-
 ---
 
 # CommonSpot User Account Policy and Procedure

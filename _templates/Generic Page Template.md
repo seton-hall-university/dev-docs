@@ -8,12 +8,12 @@ description: This is a generic page that can be used to create other pages
 tags: 
 type:
   - generic note
-title: Generic Page
+title: Generic Page Template
 parent: 
 grandparent: 
 category: 
 layout: default
-nav_enabled: true
+nav_enabled: false
 has_children:
 ---
 # [[<% tp.file.title %>]]

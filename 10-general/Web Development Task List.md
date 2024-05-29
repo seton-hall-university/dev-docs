@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: General Notes
+parent: General
 title: Web Development Task List
 category: General
 cssclasses:
@@ -10,7 +10,7 @@ date-created: 2024-02-16 11:05:42
 date-modified: 2024-02-16 11:05:42
 description: Outlines some of the tasks that Web Development takes care of regularly.
 nav_enabled: true
-tags: 
+tags:
   - task-list
   - generic-note
 type:
