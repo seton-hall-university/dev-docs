@@ -1,26 +1,8 @@
 ---
 category: CommonSpot
-css: gothic.css
 date: September 16, 2022
 description:
-export_on_save:
-    html: true
-    pandoc: true
-fontsize: 12pt
-geometry: margin=0.75in
-html:
-  embed_local_images: false
-  embed_svg: true
-  offline: false
-  toc: true
-lang: en_us
 layout: default
-linkcolor: blue
-output:
-    pdf_document:
-        highlight: pygments
-papersize: letter
-print_background: true
 tags:
   - Policy
   - Procedure
