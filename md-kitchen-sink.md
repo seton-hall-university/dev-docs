@@ -4,6 +4,8 @@ title: Markdown kitchen sink
 nav_order: 99
 ---
 
+# Markdown Kitchen Sink
+
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script>
