@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md",
+                "file": "80-commonspot/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md",
+                "file": "80-commonspot/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md",
+                "file": "80-commonspot/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-mc-cms/News Listing Pages.md"
+                "file": "80-commonspot/index.md"
               }
             }
           },
@@ -161,13 +161,14 @@
   },
   "active": "baafc7b50906f1c5",
   "lastOpenFiles": [
+    "30-cloudflare/index.md",
+    "20-mc-cms/index.md",
+    "10-general/index.md",
+    "20-mc-cms/News Listing Pages.md",
     "assets/images/mc-cms/news-list-pages-image3.png",
     "assets/images/mc-cms/news-list-pages-image2.png",
     "assets/images/mc-cms/news-list-pages-image1.png",
-    "20-mc-cms/index.md",
-    "20-mc-cms/News Listing Pages.md",
     "_templates/Generic Page Template.md",
-    "10-general/index.md",
     "10-general/Web Development Task List.md",
     "_templates"
   ]
