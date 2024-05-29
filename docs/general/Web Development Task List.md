@@ -16,7 +16,7 @@ type:
   - generic note
 ---
 
-# Web Development Task List<br><small>{% title %}</small>
+# Web Development Task List
 
 {: .no_toc }
 
