@@ -35,13 +35,13 @@ The intended audience for this document is high level content contributors and a
 
 After logging into Omni CMS, navigate to the Add-On's menu and select `Emergency Alerts` 
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-20231005183003.png]]
+![CMS Dashboard](../assets/images/mc-cms/omnicms-addons-emergency-alerts-20231005183003.png)
 
 Once the add-on has loaded, you will be presented with either the currently active message or the ability to create a new alert.
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-active-20231005182704.png]]
+![Emergency Alerts Dashboard](../assets/images/mc-cms/omnicms-addons-emergency-alerts-active-20231005182704.png)
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-new-202310061530.png]]
+![Emergency Alerts Dashboard - No active alerts](../assets/images/mc-cms/omnicms-addons-emergency-alerts-new-202310061530.png)
 
 From this screen you have the ability to review the active alert, settings and archived alerts. You can edit the existing alert, add a new update, or edit an existing update. 
 
@@ -55,7 +55,7 @@ Selecting the `New Alert` button at the bottom of the screen provides the abilit
 > [!info]
 > Please note that our current UI/X for emergency messages **does not** display the date, subtitle or description.
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-add-alert-20231006163431.png]]
+![Add new alert](../assets/images/mc-cms/omnicms-addons-emergency-alerts-add-alert-20231006163431.png)
 
 There are current three (3) severity levels:
 
@@ -65,21 +65,21 @@ There are current three (3) severity levels:
 
 Once you are satisfied with the alert, publish it with the <span style="color:green; font-weight:bold">green publish button</span> at the bottom of the page. Once published, the alert will be active on designated pages.
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-activated-20231009131024.png]]
+![Published alert example](../assets/images/mc-cms/omnicms-addons-emergency-alerts-activated-20231009131024.png)
 
 ### Activate an Archived Alert
 
 If there is a need to reuse a previously published alert, it can be reactivated by selecting the `Archived Alerts` link on the left side of the `Emergency Alerts` dashboard.
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-archive-20231009125906.png]]
+![Archived Alerts Dashboard](../assets/images/mc-cms/omnicms-addons-emergency-alerts-archive-20231009125906.png)
 
 Selecting an archived alert allows you to either set it as active or delete it. 
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-activate-20231009130431.png]]
+![Selected archived alert](../assets/images/mc-cms/omnicms-addons-emergency-alerts-activate-20231009130431.png)
 
 Once you select the alert to make active, select `SET AS ACTIVE` to continue. You will be prompted to confirm activating the archived alert.
 
-![[../assets/images/mc-cms/omnicms-addons-emergency-alerts-archive-activate-20231009130743.png]]
+![Activate an archive alert](../assets/images/mc-cms/omnicms-addons-emergency-alerts-archive-activate-20231009130743.png)
 
 Now that the archived alert has been activated it, along with all of the updates, can be edited. All previous updates will also be editable from the `Active Alert` page.
 
