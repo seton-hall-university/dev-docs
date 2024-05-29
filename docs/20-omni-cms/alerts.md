@@ -1,4 +1,7 @@
 ---
+parent: Omni CMS Notes
+title: Issuing an Emergency Alert in Omni CMS
+layout: default
 date-created: 2023-10-05T16:20:00
 date-modified: 2023-10-06T17:00:00
 summary: 
@@ -11,7 +14,6 @@ tags:
 cssclasses:
   - cards
   - cards-16-9
-parent: Omni CMS Notes
 ---
 
 # Issuing an Emergency Alert in Omni CMS
