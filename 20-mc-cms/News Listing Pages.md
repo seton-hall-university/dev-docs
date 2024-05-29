@@ -19,7 +19,7 @@ layout: default
 nav_enabled: true
 has_children:
 ---
-# [[News Listing Pages]]
+# News Listing Pages
 
 {: .no_toc }
 
