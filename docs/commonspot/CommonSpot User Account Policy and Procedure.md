@@ -11,6 +11,19 @@ tags:
 title: CommonSpot User Account Policy and Procedure
 ---
 
+# CommonSpot User Account Policy and Procedure
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ## Purpose
 
 The purpose of this document is to define Web Development's role in maintaining user accounts in CommonSpot, the university's web content management system.
