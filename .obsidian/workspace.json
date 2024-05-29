@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Generic Page Template.md",
+                "file": "20-mc-cms/News Listing Pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Generic Page Template.md",
+                "file": "20-mc-cms/News Listing Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Generic Page Template.md",
+                "file": "20-mc-cms/News Listing Pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Generic Page Template.md"
+                "file": "20-mc-cms/News Listing Pages.md"
               }
             }
           },
@@ -161,18 +161,19 @@
   },
   "active": "baafc7b50906f1c5",
   "lastOpenFiles": [
+    "20-mc-cms/assets/news-list-pages-image2.png",
+    "20-mc-cms/News Listing Pages.md",
+    "20-mc-cms/assets",
+    "20-mc-cms/index.md",
+    "_templates/Generic Page Template.md",
     "10-general/Web Development Task List.md",
     "10-general/index.md",
     "20-mc-cms/alerts.md",
-    "20-mc-cms/News Listing Pages.md",
-    "20-mc-cms/index.md",
     "80-commonspot/CommonSpot User Account Policy and Procedure.md",
-    "_templates/Generic Page Template.md",
     "80-commonspot/index.md",
     "30-cloudflare/index.md",
-    "assets/images/mc-cms/news-list-pages-image3.png",
-    "assets/images/mc-cms/news-list-pages-image2.png",
-    "assets/images/mc-cms/news-list-pages-image1.png",
+    "20-mc-cms/assets/news-list-pages-image3.png",
+    "20-mc-cms/assets/news-list-pages-image1.png",
     "_templates"
   ]
 }
