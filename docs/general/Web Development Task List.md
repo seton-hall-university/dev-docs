@@ -16,6 +16,19 @@ type:
   - generic note
 ---
 
+# Web Development Task List<br><small>{% title %}</small>
+
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 This list combines the two provided by Kevin Whary (KW) and Erik Fecher (EF). The initials next to the items designate who provided the task, not who is responsible for it. I have consolidated the ones that were similar and added others that I thought were missing. This is a work in progress and by no means meant to be a full list of things we do.
 
 ## Daily
