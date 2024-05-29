@@ -70,16 +70,18 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Define Jekyll collections
 collections:
-  # Define a collection named "modern-campus", its documents reside in the "_20-mc-cms" directory
+  # Define a collection named "modern-campus", its documents reside in the "_20-modern-campus" directory
   modern-campus:
     permalink: "/:collection/:path/"
     output: true
+
   # Define a collection named "cloudflare", its documents reside in the "_30-cloudflare" directory
   cloudflare:
     permalink: "/:collection/:path/"
     output: true
+
   # Define a collection named "general", its documents reside in the "_10-general" directory
-  general:
+  10-general:
     permalink: "/:collection/:path/"
     output: true
 
@@ -91,6 +93,34 @@ just_the_docs:
     modern-campus:
       # Give the collection a name
       name: Modern Campus CMS
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      # nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
+
+    # Reference the "cloudflare" collection
+    cloudflare:
+      # Give the collection a name
+      name: Cloudflare
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      # nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
+
+    # Reference the "general" collection
+    general:
+      # Give the collection a name
+      name: General
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
