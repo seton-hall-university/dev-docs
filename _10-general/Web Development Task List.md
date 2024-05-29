@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: General
+parent: 
 title: Web Development Task List
 cssclasses:
   - cards
