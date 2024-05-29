@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Omni CMS Notes
+title: Modern Campus CMS Notes
 nav_order: 20
 has_children: true
 ---
 
-# Omni CMS Notes
+# Modern Campus CMS Notes
