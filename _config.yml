@@ -43,7 +43,7 @@ search:
 aux_links:
   SHU Homepage: https://www.shu.edu
   SHU Github: https://github.com/seton-hall-university
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -55,7 +55,15 @@ aux_links_new_tab: true
 heading_anchors: true
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
 
 # For copy button on code
 enable_copy_code_button: true
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
