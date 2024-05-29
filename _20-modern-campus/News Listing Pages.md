@@ -34,7 +34,7 @@ has_children:
 
 From testing, it appears the procedure for setting up a News Listing page is as follows:
 
-![](_20-modern-campus/assets/images/news-list-pages-image1.png)
+![](assets/images/news-list-pages-image1.png)
 
 ## Create a new page off the “News Listing Page” template.
 
@@ -44,7 +44,7 @@ Under News Options,
 
   - Enter the number of posts per page you would like to have the page display.
   -  Select the Filter Strength - "At Least One" or "All Options", this appears to be for the combination of filters below. Have a match be indicated by at least one of the filters applied or all to be considered a result for showing up on the page
-  - Set the News Category. This is one of our 12 Categories: Alumni, Arts and Culture, Athletics, Business, Campus Life, Education, Faith and Service, Health and Medicine, Law, Nation and World, Research, Science and Technology, or all of the above. (this seems to be enough to get "Business" news to show up on a "Business News Index" page. <br><br> ![news-list-pages-image2](_20-modern-campus/assets/images/news-list-pages-image2.png)
+  - Set the News Category. This is one of our 12 Categories: Alumni, Arts and Culture, Athletics, Business, Campus Life, Education, Faith and Service, Health and Medicine, Law, Nation and World, Research, Science and Technology, or all of the above. (this seems to be enough to get "Business" news to show up on a "Business News Index" page. <br><br> ![](assets/images/news-list-pages-image2.png)
   - Unit Filter - filter by a Unit
   - Relationships filter - any one of the check boxes that represent a relationship
   - Short Names - this appears to perhaps be from however SHU short names are associated with a news story.
@@ -53,7 +53,7 @@ This appears to be the minimum to create our basic News Listing pages. Creating 
 
 Example (For Business):
 
-![news-list-pages-image3](_20-modern-campus/assets/images/news-list-pages-image3.png)
+![](assets/images/news-list-pages-image3.png)
 
 Example Business Listing Page, 16 items, At Least One filter, News Category = Business, no Unit Filter, Relationship Filter or short name specified
 
