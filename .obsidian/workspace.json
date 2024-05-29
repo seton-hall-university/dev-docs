@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md",
+                "file": "_20-modern-campus/Emergency Alerts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md",
+                "file": "_20-modern-campus/Emergency Alerts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md",
+                "file": "_20-modern-campus/Emergency Alerts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md"
+                "file": "_20-modern-campus/Emergency Alerts.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "baafc7b50906f1c5",
   "lastOpenFiles": [
-    "_80-commonspot/index.md",
     "_20-modern-campus/News Listing Pages.md",
+    "_80-commonspot/index.md",
     "_30-cloudflare/index.md",
     "_20-modern-campus/index.md",
     "_10-general/Web Development Task List.md",
@@ -171,7 +171,7 @@
     "_20-modern-campus/assets/news-list-pages-image2.png",
     "_20-modern-campus/assets",
     "_templates/Generic Page Template.md",
-    "_20-modern-campus/alerts.md",
+    "_20-modern-campus/Emergency Alerts.md",
     "_80-commonspot/CommonSpot User Account Policy and Procedure.md",
     "_20-modern-campus/assets/news-list-pages-image3.png",
     "_20-modern-campus/assets/news-list-pages-image1.png",

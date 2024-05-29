@@ -1,5 +1,5 @@
 ---
-parent: Modern Campus CMS
+parent: 
 title: Issuing an Emergency Alert in Omni CMS
 layout: default
 date-created: 2023-10-05T16:20:00
