@@ -12,7 +12,7 @@ tags:
 type:
   - generic note
 title: News Listings - Procedure
-parent: Modern Campus CMS
+parent: 
 grandparent: 
 category: Modern Campus
 layout: default
