@@ -159,15 +159,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baafc7b50906f1c5",
+  "active": "8be996aff59f9c10",
   "lastOpenFiles": [
     "20-mc-cms/assets/news-list-pages-image2.png",
     "20-mc-cms/News Listing Pages.md",
     "20-mc-cms/assets",
     "20-mc-cms/index.md",
     "_templates/Generic Page Template.md",
-    "10-general/Web Development Task List.md",
-    "10-general/index.md",
+    "_10-general/Web Development Task List.md",
+    "_10-general/index.md",
     "20-mc-cms/alerts.md",
     "80-commonspot/CommonSpot User Account Policy and Procedure.md",
     "80-commonspot/index.md",
