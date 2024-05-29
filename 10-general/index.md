@@ -1,8 +1,8 @@
 ---
 layout: default
-title: General Notes
+title: General
 nav_order: 10
 has_children: true
 ---
 
-# General Notes
+# General

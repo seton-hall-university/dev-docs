@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Cloudflare Notes
+title: Cloudflare
 nav_order: 30
 has_children: true
 ---
 
-# Cloudflare Notes
+# Cloudflare
