@@ -18,6 +18,17 @@ cssclasses:
 
 # Issuing an Emergency Alert in Omni CMS
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ## Purpose
 
 The purpose of this document is to help contributors with access activate an emergency alert on the home page of the Seton Hall Gateway site.
