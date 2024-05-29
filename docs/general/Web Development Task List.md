@@ -14,6 +14,7 @@ tags:
 title: Web Development Task List
 type:
   - generic note
+parent: General Notes
 ---
 
 # Web Development Task List
