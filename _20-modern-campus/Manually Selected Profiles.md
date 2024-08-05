@@ -21,7 +21,15 @@ has_children:
 author: Erik Fecher
 ---
 <style>
-    .callout.warn { background: orange; color: white; border:2px solid gray}
+    .callout.warn {
+    background: #ffa50069;
+    color: black;
+    border: 2px solid gray;
+    border-radius: 13px;
+    padding: 13px;
+    margin: 13px auto;
+    font-style: oblique;
+}
 </style>
 
 # Manually Selected Profiles in Modern Campus CMS
