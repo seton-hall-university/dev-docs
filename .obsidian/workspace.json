@@ -13,13 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md",
+                "file": "_20-modern-campus/Graduate Program Template.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2d10b453bd913ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_20-modern-campus/Manually Selected Profiles.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ae3ed8dbb42c4323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d628d4aa163e0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_20-modern-campus/News Listing Pages.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17ba1844da55aaae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "md-kitchen-sink.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5
   },
   "right": {
     "id": "f427d001927ec531",
@@ -85,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md",
+                "file": "_20-modern-campus/Manually Selected Profiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md",
+                "file": "_20-modern-campus/Manually Selected Profiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_20-modern-campus/News Listing Pages.md"
+                "file": "_20-modern-campus/Manually Selected Profiles.md"
               }
             }
           },
@@ -142,12 +190,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,24 +206,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baafc7b50906f1c5",
+  "active": "e2d10b453bd913ba",
   "lastOpenFiles": [
+    "_20-modern-campus/assets/images/profiles-selected/Screenshot 2024-08-05 133527.png",
+    "_20-modern-campus/assets/images/profiles-selected/image-20240711-180723.png",
+    "_20-modern-campus/assets/images/profiles-selected/image-20240711-180723.png.crdownload",
+    "_20-modern-campus/assets/images/profiles-selected/Screenshot 2024-08-05 132737.png",
+    "_20-modern-campus/assets/images/profiles-selected/Screenshot 2024-08-05 132442.png",
+    "_20-modern-campus/assets/images/profiles-selected/Screenshot 2024-08-05 132131.png",
+    "_20-modern-campus/assets/images/profiles-selected/image-20240711-180552.png",
+    "_20-modern-campus/assets/images/profiles-selected/image-20240711-180552.png.crdownload",
+    "_20-modern-campus/assets/images/profiles-selected/Screenshot 2024-08-05 130258.png",
+    "_20-modern-campus/Manually Selected Profiles.md",
+    "Screenshot 2024-08-05 130258.png",
+    "_20-modern-campus/assets/images/profiles-selected/Screenshot 2024-08-05 125751.png",
+    "md-kitchen-sink.md",
+    "_20-modern-campus/assets/images/profiles-selected/image-20240711-180648.png",
+    "_20-modern-campus/assets/images/profiles-selected/image-20240711-180648.png.crdownload",
+    "_20-modern-campus/assets/images/profiles-selected",
+    "_20-modern-campus/assets/images/New folder",
+    "_20-modern-campus/Graduate Program Template.md",
+    "_20-modern-campus/News Listing Pages.md",
+    "_20-modern-campus/assets/images/grad-program-template/hero-video-component.png",
+    "_20-modern-campus/assets/images/grad-program-template",
     "_20-modern-campus/Emergency Alerts.md",
     "_20-modern-campus/assets",
-    "_20-modern-campus/assets/images/news-list-pages-image1.png",
-    "_20-modern-campus/News Listing Pages.md",
-    "_20-modern-campus/assets/images/omnicms-addons-emergency-alerts-20231005183003.png",
     "_80-commonspot/index.md",
     "_30-cloudflare/index.md",
     "_20-modern-campus/index.md",
     "_10-general/Web Development Task List.md",
     "_10-general/index.md",
     "index.md",
-    "_20-modern-campus/assets/images/news-list-pages-image2.png",
     "_20-modern-campus/assets",
     "_templates/Generic Page Template.md",
     "_80-commonspot/CommonSpot User Account Policy and Procedure.md",
-    "_20-modern-campus/assets/images/news-list-pages-image3.png",
     "_templates"
   ]
 }
