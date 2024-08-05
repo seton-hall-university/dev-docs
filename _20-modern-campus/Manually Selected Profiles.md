@@ -18,8 +18,12 @@ category: Modern Campus
 layout: default
 nav_enabled: true
 has_children:
-auhtor: Erik Fecher
+author: Erik Fecher
 ---
+<style>
+    .callout.warn { background: orange; color: white; border:2px solid gray}
+</style>
+
 # Manually Selected Profiles in Modern Campus CMS
 
 {: .no_toc }
@@ -65,8 +69,9 @@ To add another profile to the listing, click the blue “ADD NEW GROUP” button
 
 After making your selections, choose which style you would like to show the profiles in. As mentioned earlier, there are two (2) ways to display them. 
 
-> [!note]
-> The "Block Grid" view should be selected by default. However, you may need to choose the radio button manually.
+<blockquote class="callout warn">
+The "Block Grid" view should be selected by default. However, you may need to choose the radio button manually.
+</blockquote>
 
 ![](assets/images/profiles-selected/Screenshot%202024-08-05%20132737.png)
 
